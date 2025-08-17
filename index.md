@@ -1,4 +1,4 @@
-# 🔐 Integrated Security Solution Designs Portfolio
+# 🔐 Integrated Security Solution Designs
 
 Welcome to my portfolio of **Integrated Security System Designs**.  
 Here I demonstrate my approach to creating **scalable, reliable, and secure solutions** for modern facilities. From Design, Optimization, Creation of BoQ, Costing and Implementation.
