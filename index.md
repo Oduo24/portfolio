@@ -8,7 +8,7 @@ Here I demonstrate my approach to creating **scalable, reliable, and secure solu
 
 ## 🔑 Multi-door Access Control(Without Door Controller)
 
-![Access Control](designs/access_control_quantum.png)  
+![Access Control](designs/multidoor_access_control.png)  
 
 **Description:**  
 An **access control system design**, supporting secure entry management, user role assignments, and integration with CCTV for real-time video validation of access events.  
