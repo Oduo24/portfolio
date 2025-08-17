@@ -5,14 +5,6 @@ Here I demonstrate my approach to creating **scalable, reliable, and secure solu
 
 ---
 
-## 📷 Third Party Camera Integration into AJAX Ecosystem
-
-![3rd Party CCTV Integration into AJAX](designs/3rd_party_cctv_integration_into_ajax.png)  
-
-**Description:**  
-Design showing how **third-party CCTV cameras** can be integrated into the **AJAX security platform** for unified monitoring and event correlation. This enables seamless video verification when alarms are triggered.  
-
----
 
 ## 🔑 Multi-door Access Control(Without Door Controller)
 
@@ -23,9 +15,27 @@ An **access control system design**, supporting secure entry management, user ro
 
 ---
 
+## 📷 Third Party Camera Integration into AJAX Ecosystem
+
+![3rd Party CCTV Integration into AJAX](designs/3rd_party_cctv_integration_into_ajax.png)  
+
+**Description:**  
+Design showing how **third-party CCTV cameras** can be integrated into the **AJAX security platform** for unified monitoring and event correlation. This enables seamless video verification when alarms are triggered.  
+
+---
+
 ## 🚨 Alarm Integration
 
 ![AJAX CCTV Surveillance](designs/AJAX_CCTV_Surveillance.png)  
+
+**Description:**  
+A design of **AJAX CCTV surveillance System**, providing cloud live streams and events management combined with instant video verification for enhanced situational awareness.  
+
+---
+
+## 🚨 Alarm CCTV Surveillance and Alarm System
+
+![AJAX CCTV Surveillance](designs/AJAX_cctv_and_alarm_residential.png)  
 
 **Description:**  
 A design of **AJAX CCTV surveillance System**, providing cloud live streams and events management combined with instant video verification for enhanced situational awareness.  
