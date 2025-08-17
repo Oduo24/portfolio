@@ -24,7 +24,7 @@ Design showing how **third-party CCTV cameras** can be integrated into the **AJA
 
 ---
 
-## 🚨 Alarm Integration
+## 🚨 AJAX Wired CCTV Surveillance System
 
 ![AJAX CCTV Surveillance](designs/AJAX_CCTV_Surveillance.png)  
 
@@ -33,7 +33,7 @@ A design of **AJAX CCTV surveillance System**, providing cloud live streams and 
 
 ---
 
-## 🚨 Alarm CCTV Surveillance and Alarm System
+## 🚨 Integrated CCTV Surveillance and Intruder Alarm System
 
 ![AJAX CCTV Surveillance](designs/AJAX_cctv_and_alarm_residential.png)  
 
